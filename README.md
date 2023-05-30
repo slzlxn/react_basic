@@ -19,3 +19,16 @@
     npx create-react-app 폴더명(대문자x)
     cd 폴더명
     npm start
+
+# SPA : Single Page Application
+    페이지는 하나인데 여러개인것처럼 눈속임.
+    -> 자바스크립트가 해준다.
+    -> 페이지를 매번 새로고침 할 필요가 없음.
+    -> 웹사이트를 모바일앱처럼 사용할 수 있음
+ 
+## CS CODE 확장프로그램 
+ ![image](https://github.com/slzlxn/react_basic/assets/105650300/f4a55332-5859-4b10-98a5-5dfa6bcccb63)
+ 
+ ## setting 설정
+ ![image]![image](https://github.com/slzlxn/react_basic/assets/105650300/ad9c0e25-9310-459a-a0dc-c3640396fe80)
+
