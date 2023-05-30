@@ -16,6 +16,6 @@
   * 프로젝트를 만들 폴더를 생성한다
 
 ## 3. 리액트에 필요한 패키지를 자동으로 설치해주는 명령어를 입력한다.(터미널)
-  npx create-react-app 폴더명(대문자x)
-  cd 폴더명
-  npm start
+    npx create-react-app 폴더명(대문자x)
+    cd 폴더명
+    npm start
