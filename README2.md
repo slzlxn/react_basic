@@ -16,3 +16,5 @@
 ## 화살표함수로 바꿈
 ![image](https://github.com/slzlxn/react_basic/assets/105650300/08c29871-c0be-474a-b2ba-b7175ce04da3)
 
+## 함수를 밖으로 빼기
+  ![image](https://github.com/slzlxn/react_basic/assets/105650300/c1567581-6343-4bbb-aff7-155e11a43fe9)
