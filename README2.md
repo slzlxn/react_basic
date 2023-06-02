@@ -18,3 +18,14 @@
 
 ## 함수를 밖으로 빼기
   ![image](https://github.com/slzlxn/react_basic/assets/105650300/c1567581-6343-4bbb-aff7-155e11a43fe9)
+
+  ## 클릭하면 함수실행(Event Handling)
+  ![image](https://github.com/slzlxn/react_basic/assets/105650300/b38f0e76-fbf1-42df-86e8-cdd10f08d1ad)
+=> 화살표 함수로 바뀜
+ ![image](https://github.com/slzlxn/react_basic/assets/105650300/a24f0d5d-b204-495e-a2d2-455d04bcb034)
+  
+  ## 함수 밖으로 빼기
+  
+  ## 콘솔에는 숫자가 바뀌어 지는데 화면에는 바뀌지 않는다.
+      react에서는 변수가 바뀐다해서 리랜더링(다시 화면에 그림)이 일어나지 않는다  ==> 해결책-> 리랜더링이 일어나게 하려면 useState(react Hook)를 사용해야한다.
+  ![image](https://github.com/slzlxn/react_basic/assets/105650300/4cec8ef3-2000-4f46-870c-0d671364a814)
