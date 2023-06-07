@@ -7,3 +7,5 @@
 ![image](https://github.com/slzlxn/react_basic/assets/105650300/2cee291d-16fc-4090-88b3-9f82341fabd1)
 
 ![image](https://github.com/slzlxn/react_basic/assets/105650300/71326c47-832f-40a4-9ca4-a677b204a16c)
+
+![image](https://github.com/slzlxn/react_basic/assets/105650300/b605023a-5b0d-41e3-b9a4-1ae3b28a1fe2)
