@@ -18,3 +18,6 @@
 
 ## 
 ![image](https://github.com/slzlxn/react_basic/assets/105650300/a4aa1177-436a-4ea9-af0f-206873868cbf)
+
+## 자식요소에 값 전달
+![image](https://github.com/slzlxn/react_basic/assets/105650300/7290eb00-341b-437f-ae5b-9f075f1ebcd6)
