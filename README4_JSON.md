@@ -29,3 +29,7 @@ https://www.npmjs.com/package/axios
     
 ![image](https://github.com/slzlxn/react_basic/assets/105650300/bba01ecd-e4cb-4dad-945a-659eca4e4c52)
 ![image](https://github.com/slzlxn/react_basic/assets/105650300/15132d31-dcdb-4ad6-a99e-706a39d61319)
+
+
+
+![image](https://github.com/slzlxn/react_basic/assets/105650300/26a1c262-a68f-4ba2-ba53-a3ae12f795ac)
